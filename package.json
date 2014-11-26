@@ -1,0 +1,27 @@
+{
+  "name": "griddle-webpack-test",
+  "version": "0.0.0",
+  "description": "griddle-webpack-test\r ====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryanlanciaux/griddle-webpack-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanlanciaux/griddle-webpack-test/issues"
+  },
+  "homepage": "https://github.com/ryanlanciaux/griddle-webpack-test",
+  "dependencies": {
+    "react": "~0.12.1",
+    "griddle-react": "~0.1.17"
+  },
+  "devDependencies": {
+    "jsx-loader": "~0.12.2",
+    "webpack": "~1.3.3-beta1"
+  }
+}
