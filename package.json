@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/ryanlanciaux/griddle-webpack-test",
   "dependencies": {
-    "react": "~0.12.1",
-    "griddle-react": "~0.2.8"
+    "griddle-react": "~0.2.15",
+    "react": "~0.14.3",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "jsx-loader": "~0.12.2",
