@@ -1,6 +1,5 @@
-/** @jsx React.DOM */
-
 var React = require('react');
+var ReactDOM = require('react-dom');
 var Griddle = require('griddle-react');
 
 var fakeData =  [
@@ -51,5 +50,5 @@ var fakeData =  [
   }
 ];
 
-React.render(<Griddle results={fakeData} />, document.getElementById('main'));
+ReactDOM.render(<Griddle data={fakeData} />, document.getElementById('main'));
 
