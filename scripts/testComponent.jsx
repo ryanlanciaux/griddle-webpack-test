@@ -50,5 +50,5 @@ var fakeData =  [
   }
 ];
 
-ReactDOM.render(<Griddle data={fakeData} />, document.getElementById('main'));
+ReactDOM.render(<Griddle results={fakeData} />, document.getElementById('main'));
 
